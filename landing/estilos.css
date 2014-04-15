@@ -1,0 +1,122 @@
+header
+{
+background:orange;
+padding: 1em;
+font-size: 18px;
+}
+
+header ul  
+{
+list-style: none;
+margin: 0;
+padding: 0;
+
+}
+header ul li 
+{
+display: inline-block;
+}
+
+header ul li a
+{
+	text-decoration: none;
+	color: white;
+	margin: 3px;
+	padding: 1em;
+} 
+#portada
+{
+margin: 0;
+padding: 0;
+}
+
+#portada #portadita
+{
+margin: 0;
+padding:0;
+}
+
+#portada #portadita img
+{
+	width: 100%;
+	margin: 0;
+	padding:0;
+}
+
+#restaurantes 
+{
+margin: 0;
+padding:0;
+}
+
+#restaurantes #elige
+{
+margin: 0;
+padding: 0;
+}
+
+#restaurantes #elige #eligeunrestaurante img
+{
+	width: 50%;
+	padding: 0;
+	margin-top: 20%;
+	text-align: center;
+	margin: 0;
+	margin-left: 30%;
+	margin-top: 20%;
+	margin-bottom: 10%;
+	padding: 0;
+}
+
+#restaurantes #barraverde #feedbackeatsy
+{
+margin: 0;
+padding: 0;
+}
+
+#restaurantes #barraverde #feedbackeatsy img
+{   
+width: 100%;
+}
+
+
+
+/*Empieza fila de restaurantes 1*/
+.fila1
+{
+padding: 0;
+display: inline-block;
+}
+
+.fila1 ul
+{
+list-style: none;
+}
+
+.fila1 ul li .imagenrestaurantes img
+{
+width: 25%;
+margin-bottom: 4em;
+}
+
+
+
+
+.fila2
+{
+padding: 0;
+display: inline-block;
+}
+
+.fila2 ul
+{
+list-style: none;
+}
+
+.fila2 ul li .imagenrestaurantes img
+{
+width: 25%;
+margin-bottom: 4em;
+}
+
+
